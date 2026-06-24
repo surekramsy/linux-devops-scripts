@@ -186,5 +186,5 @@ Attach the following ECR repository access to:
 ECR Repository ARN:
 
 ```text
-arn:aws:ecr:ap-south-1:123456789012:repository/tokenborg/explorer
+arn:aws:ecr:ap-south-1:123456789012:repository/backendorg/explorer
 ```
